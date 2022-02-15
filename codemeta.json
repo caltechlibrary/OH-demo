@@ -1,0 +1,27 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "author": [
+        {
+            "@id": "https://orcid.org/0000-0001-9266-5146",
+            "@type": "Person",
+            "affiliation": "Caltech Library",
+            "familyName": "Morrell",
+            "givenName": "Thomas E."
+        }
+    ],
+    "issueTracker": "https://github.com/caltechlibrary/ovro-demo/issues",
+    "license": "https://github.com/caltechlibrary/ovro-demo/blob/main/LICENSE",
+    "developmentStatus": "active",
+    "downloadUrl": "https://github.com/caltechlibrary/ovro-demo/archive/main.zip",
+    "codeRepository": "https://github.com/caltechlibrary/ovro-demo",
+    "datePublished": "2022-02-11",
+    "keywords": [
+        "ovro-demo",
+        "software"
+    ],
+    "name": "OVRO demo",
+    "description": "Demo of a static data portal for OVRO",
+    "version": "0.0.1",
+    "maintainer": "https://orcid.org/0000-0001-9105-5960"
+}
