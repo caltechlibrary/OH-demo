@@ -4,6 +4,7 @@ output:
   pdf_document: default
 ---
 
+# New Heading
 
 +----------------------------------+----------------------------------+
 | ![](media/image1.jpg)             |                                  |
